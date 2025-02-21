@@ -1,0 +1,2 @@
+sekreter1,sekreter123,sekreter
+doktor1,doktor123,doktor
